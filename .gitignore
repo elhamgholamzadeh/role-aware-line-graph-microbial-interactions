@@ -1,0 +1,13 @@
+# data (download from Nestor et al., see README)
+Data_msystems/
+
+# outputs written by the notebooks
+results/
+results_imbalance/
+results_mixed/
+
+# notebook / python clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
